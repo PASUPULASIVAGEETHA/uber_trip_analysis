@@ -1,4 +1,9 @@
 # Uber Trip Analysis
+
+## Tableau Dashboard
+You can view the interactive Tableau dashboard here:  
+👉 [View Dashboard on Tableau Public]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/app/profile/pasupula.siva.geetha/viz/Uber_trip/Dashboard1)
+
 # 📌 Project Overview
 
 This project analyzes Uber trip data to uncover patterns in travel demand, vehicle activity, and dispatching efficiency. The analysis includes data cleaning, preprocessing, exploratory data analysis (EDA), and visualization to extract actionable insights that can help improve decision-making in ride-sharing operations.
