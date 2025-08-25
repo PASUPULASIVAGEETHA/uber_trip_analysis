@@ -47,5 +47,39 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 Environment: Jupyter Notebook
 
+# 🚀 How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/yourusername/Uber-Trip-Analysis.git
+cd Uber-Trip-Analysis
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Open the notebook:
+
+jupyter notebook Uber-trip-analysis.ipynb
+
+# ✅ Results
+
+Built clear visualizations for trip demand trends.
+
+Identified peak demand periods and base performance.
+
+Provided insights to help optimize Uber’s resource allocation and pricing strategy.
+
+# 🔮 Future Work
+
+Apply time-series forecasting to predict future trip demand.
+
+Explore machine learning models for trip prediction.
+
+Integrate real-time data pipelines for continuous monitoring.
+
+# 📌 Author
 
 # 👤 Pasupula Siva Geetha
